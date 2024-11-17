@@ -1,0 +1,34 @@
+2024-11-16T22:26:28.906-06:00  INFO 5036 --- [librotes] [main] c.libreria.librotes.LibrotesApplication  : Starting LibrotesApplication using Java 17.0.12 with PID 5036 (C:\Users\USER\Desktop\Universidad\Cursos en linea\ProyectoLibreria\librotes\target\classes started by USER in C:\Users\USER\Desktop\Universidad\Cursos en linea\ProyectoLibreria\librotes)
+2024-11-16T22:26:28.909-06:00  INFO 5036 --- [librotes] [main] c.libreria.librotes.LibrotesApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T22:26:29.451-06:00  INFO 5036 --- [librotes] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-16T22:26:29.476-06:00  INFO 5036 --- [librotes] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 0 JPA repository interfaces.
+2024-11-16T22:26:29.894-06:00  INFO 5036 --- [librotes] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-16T22:26:29.951-06:00  INFO 5036 --- [librotes] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-16T22:26:29.994-06:00  INFO 5036 --- [librotes] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-11-16T22:26:30.381-06:00  INFO 5036 --- [librotes] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-16T22:26:30.416-06:00  INFO 5036 --- [librotes] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-11-16T22:26:30.740-06:00  INFO 5036 --- [librotes] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7412a438
+2024-11-16T22:26:30.747-06:00  INFO 5036 --- [librotes] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-11-16T22:26:31.172-06:00  INFO 5036 --- [librotes] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-16T22:26:31.180-06:00  INFO 5036 --- [librotes] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-16T22:26:31.424-06:00  INFO 5036 --- [librotes] [main] c.libreria.librotes.LibrotesApplication  : Started LibrotesApplication in 3.03 seconds (process running for 3.461)
+2024-11-16T22:27:52.160-06:00  INFO 5036 --- [librotes] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-16T22:27:52.163-06:00  INFO 5036 --- [librotes] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-11-16T22:27:52.167-06:00  INFO 5036 --- [librotes] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-11-16T22:27:55.335-06:00  INFO 3592 --- [librotes] [main] c.libreria.librotes.LibrotesApplication  : Starting LibrotesApplication using Java 17.0.12 with PID 3592 (C:\Users\USER\Desktop\Universidad\Cursos en linea\ProyectoLibreria\librotes\target\classes started by USER in C:\Users\USER\Desktop\Universidad\Cursos en linea\ProyectoLibreria\librotes)
+2024-11-16T22:27:55.338-06:00  INFO 3592 --- [librotes] [main] c.libreria.librotes.LibrotesApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T22:27:55.877-06:00  INFO 3592 --- [librotes] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-16T22:27:55.903-06:00  INFO 3592 --- [librotes] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 0 JPA repository interfaces.
+2024-11-16T22:27:56.307-06:00  INFO 3592 --- [librotes] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-16T22:27:56.369-06:00  INFO 3592 --- [librotes] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-16T22:27:56.415-06:00  INFO 3592 --- [librotes] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-11-16T22:27:56.798-06:00  INFO 3592 --- [librotes] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-16T22:27:56.834-06:00  INFO 3592 --- [librotes] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-11-16T22:27:57.040-06:00  INFO 3592 --- [librotes] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@33bb3f86
+2024-11-16T22:27:57.042-06:00  INFO 3592 --- [librotes] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-11-16T22:27:57.465-06:00  INFO 3592 --- [librotes] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-16T22:27:57.473-06:00  INFO 3592 --- [librotes] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-16T22:27:57.707-06:00  INFO 3592 --- [librotes] [main] c.libreria.librotes.LibrotesApplication  : Started LibrotesApplication in 2.861 seconds (process running for 3.271)
+2024-11-16T22:28:59.310-06:00  INFO 3592 --- [librotes] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-16T22:28:59.313-06:00  INFO 3592 --- [librotes] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-11-16T22:28:59.316-06:00  INFO 3592 --- [librotes] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
